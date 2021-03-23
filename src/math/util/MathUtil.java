@@ -17,7 +17,7 @@ public class MathUtil {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-//        System.out.println("1st upload from Local to GitHub!!!");
+        System.out.println("1st upload from Local to GitHub!!!");
 //        System.out.println("Welcom to GitHub");
         //TEST TRÂU BÒ, TỨC LÀ DÙNG MẮT ĐỂ NHÌN ĐÚNG SAI
         
