@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package math.util;
+package com.fu.mathutil.main;
 
-import com.fu.MathUtility;
+import com.fu.mathutil.MathUtility;
 
 /**
  *
  * @author thand
  */
-public class MathUtil {
+public class Main {
 
     /**
      * @param args the command line arguments
